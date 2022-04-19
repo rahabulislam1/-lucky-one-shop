@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Adjustable Bench",
+        "price": "35/month",
+        "img": "https://i.ibb.co/Tb0zpPq/adjustable-bench.jpg",
+        "description": "The adjustable weight bench is ideal for working out and training on your chest, shoulders, back, abs, and more."
+    },
+    {
+        "id": 2,
+        "name": "Dumbbells",
+        "price": "10/month",
+        "description": "Dumbbells are used to strengthen the body and to tone the muscles, along with increasing their size.",
+        "img": "https://i.ibb.co/Vtf95Tp/Dumbbells.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Gym Bike",
+        "price": "30/month",
+        "description": "Riding a stationary bike can help build strength in your legs and lower body, especially if you use a higher resistance.",
+        "img": "https://i.ibb.co/PgjFB0r/Gym-bike.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Flat Bench Press",
+        "price": "25/month",
+        "description": "The flat bench press involves both portions of the pectoralis major muscle but focuses on the lower head.",
+        "img": "https://i.ibb.co/B4ZZ0s3/olympic-flat-bench.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Exercise Ball",
+        "price": "5/month",
+        "description": "A usually large, inflated plastic or rubber ball used especially for strengthening muscles and improving posture and balance.",
+        "img": "https://i.ibb.co/PD1zzj1/exercise-ball.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Treadmill",
+        "price": "45/month",
+        "description": "A treadmill is a piece of exercise equipment that has a belt that loops around, driven by a motor.",
+        "img": "https://i.ibb.co/bNHFDpm/treadmil.jpg"
+    }
+]

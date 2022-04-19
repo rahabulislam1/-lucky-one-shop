@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Archimedes",
+        "Rating": 4.5,
+        "img": "https://i.ibb.co/1L0Kq8c/1.jpg",
+        "review": "All Equipments are good and new..Highly Recommended."
+    },
+    {
+        "id": "2",
+        "name": "Leonardo da Vinci",
+        "Rating": 4.7,
+        "img": "https://i.ibb.co/GvtgHMm/2.jpg",
+        "review": "So far he is the best Gym trainer i have ever met."
+    },
+    {
+        "id": "3",
+        "name": "Nicolaus Copernicus",
+        "Rating": 4.2,
+        "img": "https://i.ibb.co/XX5j1r4/3.jpg",
+        "review": "Thor-Gym's service is appreciable..Big fan of the trainer."
+    },
+    {
+        "id": "4",
+        "name": "Galileo Galilei",
+        "Rating": 4,
+        "img": "https://i.ibb.co/b2nNGr1/4.jpg",
+        "review": "Trainers behavior is very good.He is very professional and trained us very well"
+    },
+    {
+        "id": "7",
+        "name": "Isaac Newton",
+        "Rating": 5,
+        "img": "https://i.ibb.co/VSpNHmN/5.jpg",
+        "review": "Thor-Gym is very well known for it's trainer.All utilities are new and useful."
+    },
+    {
+        "id": "6",
+        "name": "Robert Boyle",
+        "Rating": 4.5,
+        "img": "https://i.ibb.co/Kb9bXDz/6.jpg",
+        "review": "i just love Thor-Gym...Very much Recommended "
+    }
+]
