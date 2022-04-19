@@ -1,0 +1,13 @@
+.service img {
+    width: 100%;
+    height: 350px;
+}
+
+.Buy-btn {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.service button:hover {
+    background-color: palevioletred;
+}

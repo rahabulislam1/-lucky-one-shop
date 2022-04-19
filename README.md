@@ -2,6 +2,27 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Project Name:
+HR Photography
+
+### Project Live Site link:
+
+
+### Project Description:
+* THis is photography website.
+* First we show my best captured photo.
+* Then we show public reviews.
+* We have protected section there no one can't booked with out login.
+* We have a login section where new user can login by registering account.
+
+### Technology Uses:
+* React
+* Bootstrap
+* Google Firebase
+* React-Firebase-Hooks
+* Tostify
+* React Router
+
 ## Available Scripts
 
 In the project directory, you can run:

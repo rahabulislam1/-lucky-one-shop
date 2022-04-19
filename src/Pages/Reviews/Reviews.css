@@ -1,0 +1,30 @@
+.reviews-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    margin: 10px auto;
+    width: 80%;
+}
+
+
+@media only screen and (max-width: 480px) {
+    .reviews-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .reviews-container img {
+        width: 100%;
+    }
+
+}
+
+@media only screen and (min-width: 481px) and (max-width: 778px) {
+    .reviews-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .reviews-container img {
+        width: 100%;
+    }
+
+}

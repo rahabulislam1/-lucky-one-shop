@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Rino Image",
+        "price": "25K",
+        "img": "https://i.ibb.co/Jk2CF1N/5bf2a2d548eb121808422f62.webp",
+        "description": "Rhinos are one of the Big Five animals popular on African safaris, and they are also a popular tourism draw in places like the Eastern Himalayas."
+    },
+    {
+        "id": 2,
+        "name": "Marmot Image",
+        "price": "45K",
+        "description": "Marmots are large ground squirrels in the genus Marmota, with 15 species living in Asia, Europe, and North America.",
+        "img": "https://i.ibb.co/YddGMPZ/19-wildlife-photography.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Snack Image",
+        "price": "30k",
+        "description": "Snakes are elongated, limbless, carnivorous reptiles of the suborder Serpentes. Like all other squamates, amniote vertebrates covered in overlapping scales.",
+        "img": "https://i.ibb.co/6XrQgnn/aid990243-v4-1200px-Be-a-Wildlife-Photographer-Step-5.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Elephant Image",
+        "price": "15k",
+        "description": "Elephants are the largest existing land animals. Three living species are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant.",
+        "img": "https://i.ibb.co/r6RgQMR/pexels-pixabay-247431.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Lion Image",
+        "price": "50k",
+        "description": "The lion (Panthera leo) is a large cat of the genus Panthera native to Africa and India. It has a muscular, round ears, and a hairy tuft at the end of its tail.",
+        "img": "https://i.ibb.co/QKRzb0T/photo-1575550959106-5a7defe28b56.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Squirrel Image",
+        "price": "45k",
+        "description": "Squirrels are members of the family Sciuridae, a family that includes small or medium-size rodents. ",
+        "img": "https://i.ibb.co/fSVF8PN/wildlife-photos-austrian-photographer-julian-rad-fb1.png"
+    }
+]
